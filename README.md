@@ -1,0 +1,4 @@
+c--
+===
+
+area de triangulo
